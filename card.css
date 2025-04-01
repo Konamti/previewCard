@@ -6,3 +6,19 @@
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+
+:root {
+  --Yellow-code: hsl(47, 88%, 63%);
+  --White-code: hsl(0, 0%, 100%);
+  --Gray-code: hsl(0, 0%, 42%);
+  --Gray-code: hsl(0, 0%, 7%);
+}
+
+body {
+  background: var(--Yellow-code);
+}
+
+section {
+  background: var(--White-code);
+  max-width: 320px;
+}
