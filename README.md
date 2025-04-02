@@ -25,8 +25,8 @@ Frontend Qr code project
 
 ### Links
 
-- Solution URL: [https://github.com/Konamti/konamti.github.io.git]
-- Live Site URL: [https://konamti.github.io/]
+- Solution URL: [https://github.com/Konamti/previewCard.git]
+- Live Site URL: [https://konamti.github.io/previewCard/]
 
 ## My process
 
@@ -38,20 +38,17 @@ Frontend Qr code project
 
 ### What I learned
 
-I learnt a new property I had difficulty understanding for time in CSS. I also learnt how insert attribution.
+I implemented tags which I barely used when coding, like article and span.
 
 ```css
-.body {
-  min-height: 100vh;
-}
-.section {
-  max-width: 320px;
+.two {
+  object-fit: fit;
 }
 ```
 
 ### Continued development
 
-I would like to improve my CSS responsive skills alot and flexbox properties. I would love to reinforce my knowledge on flexbox and other related properties.
+I would like to improve my ability to simply detect the type of tag to implement in my html when I see the design of the page.
 
 ### Useful resources
 
@@ -63,4 +60,4 @@ N/A
 
 ## Acknowledgments
 
-N/A
+Huxn Webdev, is great programmer and I have followed most of his tutorials. He explains his code well and is always funny in his videos which makes the coding interesting even when you are tired.
