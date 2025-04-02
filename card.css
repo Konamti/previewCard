@@ -35,11 +35,11 @@ section {
   border: 1px solid var(--Gray-500);
   font-family: "Figtree", sans-serif;
 }
-
+/* 
 .blog-image {
   display: flex;
   justify-content: center;
-}
+} */
 
 .one {
   border-radius: 10px;
